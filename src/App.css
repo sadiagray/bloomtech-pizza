@@ -37,6 +37,11 @@
   }
 }
 
+body{
+  background-color: #C1DBB3;
+  color: #750D37;
+}
+
 .getStarted {
   display: flex;
   flex-direction: column;
@@ -47,11 +52,11 @@
 .getStartedText{
   padding-bottom: 15px;
   font-size: large;
+  color: black;
 }
 
 #order-pizza{
-  background-color: #04AA6D;
-  color: white;
+  color: black;
   border: none;
   padding: 3px 6px;
   text-align: center;
