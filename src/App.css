@@ -36,3 +36,176 @@
     transform: rotate(360deg);
   }
 }
+
+.getStarted {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.getStartedText{
+  padding-bottom: 15px;
+  font-size: large;
+}
+
+#order-pizza{
+  background-color: #04AA6D;
+  color: white;
+  border: none;
+  padding: 3px 6px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 5px;
+}
+
+.Pizza {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.navLinks {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.pizza-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.pizza-builder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.customer-name {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#name-input{
+  padding: 10px 10px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 15px;
+}
+
+.size-dropdown {
+  padding: 10px 10px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 15px;
+}
+
+.sauce-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 3px;
+}
+
+.toppings {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 3px;
+}
+
+.substitutes {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 3px;
+}
+
+.special-instructions{
+  padding: 10px 10px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 15px;
+}
+
+.submit {
+  padding: 3px 6px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 5px;
+}
+
+.order-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.specifics {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.confirm-wrapper{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.order-success{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center
+}
+
+.order-details{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center
+}
+
+.reset-button{
+  padding: 3px 6px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 5px;
+}
+
+.header {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  color: black;
+  font-family: "Sofia", sans-serif;
+  border: 2px solid black;
+  border-radius: 25px;
+}
