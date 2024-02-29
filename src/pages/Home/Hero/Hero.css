@@ -1,0 +1,18 @@
+.hero-img {
+    height: 100vh;
+    background-image: url('../../../assets/hero.jpeg');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-content {
+    position: absolute;
+    top: 40%;
+}
+
+.hero-content p {
+    font-size: 20px;
+}
+

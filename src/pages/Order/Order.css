@@ -1,0 +1,49 @@
+.order h1 {
+    text-align: center;
+    padding-bottom: 35px;
+}
+
+.additem {
+    margin-left: 25px;
+}
+
+.order-btn {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.special {
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 35px;
+}
+
+.size {
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 25px;
+}
+
+.crust {
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 35px;
+}
+
+.sauce {
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 35px;
+}
+
+.toppings {
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 35px;
+}
+
+.bevs {
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 25px;
+}
